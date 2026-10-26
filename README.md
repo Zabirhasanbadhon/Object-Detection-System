@@ -1,4 +1,4 @@
-#🧠Object Detection System
+# 🧠Object Detection System
 
 ## Overview
 A Python desktop application that detects objects in images using the YOLOv3 model. It provides a graphical user interface (GUI) for selecting images, viewing detection results, zooming in on output images, saving results, and resetting the application.
