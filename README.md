@@ -38,5 +38,9 @@ Keep these files in the project directory:
 - Tkinter
 - YOLOv3
 
+## 👨‍💻 Developer
+
+**ZaBir HaSan**
+
 ## Note
 Detection accuracy and speed depend on the input image and computer hardware.
